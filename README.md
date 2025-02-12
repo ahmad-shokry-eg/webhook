@@ -1,0 +1,2 @@
+- This is a command line webhook for github
+- The tool is built with golang and free to reuse
